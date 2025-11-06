@@ -1,4 +1,4 @@
-![SQLMystery](https://github.com/acsqlworks/SQL-Mystery/blob/main/image.png)
+![Detective SQL Mystery Game Banner](image.png)
 
 An interactive SQL learning game where you play as a detective solving crimes through database queries!
 
